@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://link-login.rute303waw.com/",
+      "permanent": true
+    }
+  ]
+}
